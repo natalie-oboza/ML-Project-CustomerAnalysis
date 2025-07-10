@@ -1,1 +1,1 @@
-# ML-Project-CustomerAnalysis
+# Machine Learning Project 2025 for Independent Study
