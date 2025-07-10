@@ -1,1 +1,1 @@
-# Machine Learning Project 2025 for Independent Study
+# Machine Learning Project 2025 
